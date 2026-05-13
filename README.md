@@ -33,3 +33,6 @@ The project demonstrates the performance improvement of parallel execution compa
 
 ```bash
 python sequential_version.py
+
+Sequential: 12.4 seconds
+Parallel: 5.6 seconds
